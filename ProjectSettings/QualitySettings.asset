@@ -205,6 +205,7 @@ QualitySettings:
   m_TextureMipmapLimitGroupNames: []
   m_PerPlatformDefaultQuality:
     Android: 0
+    Server: 0
     Standalone: 2
     WebGL: 2
     Windows Store Apps: 2
